@@ -1,0 +1,30 @@
+body{
+	font-family: 'Nunito', sans-serif;
+	color: #798591;
+	background: #FCF1D9;
+}
+
+#logo{
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	float: center;
+	border: 10px groove yellow;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+.item_name{
+	font-family: 'Lusitana', sans-serif;
+	text-decoration: underline;
+}
+
+#margarita{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	float: center;
+	border: 4px solid black;
+}
