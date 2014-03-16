@@ -23,6 +23,7 @@ ul li{
 	text-decoration: underline;
 }
 
+
 #menu div.item {
 	margin-bottom: 50px;
 }
@@ -47,15 +48,25 @@ h1{
 	margin-top: 30px;
 }
 
+div ul{
+	padding: 0px;
+	margin: 0px;
+}
 div ul.inline_list li{
 	display: inline-block;
 	margin-left:10px;
 	margin-right:10px;
+	font-size: 90%;
+	text-align: left;
+	padding: 15px;
+	margin: 0px;
 }
 
+
 #images{
-	margin-top: 110px;
+	margin-top: 95px;
 	margin-left: 0px;
+	margin-right: 50px
 }
 
 #menu{
@@ -63,8 +74,38 @@ div ul.inline_list li{
 }
 #menu h1{
 	text-align: right;
+	padding-right: 0px;
+	margin-right:0px;
 }
 
 #other_stuff{
-	margin-left: 50px
+	margin-right: 30px
+}
+
+#other_stuff h1{
+	text-align: right;
+}
+
+#other_stuff div.item {
+	margin-bottom: 50px;
+}
+
+#other_images{
+	margin-top: 120px;
+}
+
+#breadsticks{
+	margin-top: 40px;
+}
+
+#soda{
+	margin-top: 30px;
+}
+
+#bottom_list li{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 20px;
+	padding-left: 20px
 }
